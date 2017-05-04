@@ -1,0 +1,74 @@
+.title
+{
+text-alight:center;
+color:AA0078;
+font-size: 38px;
+}
+
+body
+{
+color:white;
+}
+
+.background
+{
+background-image:url('background.jpg');
+}
+
+a:link 
+{
+color:AA0078;
+}
+
+a:visited 
+{
+color:AA0078;
+}
+
+a:hover 
+{
+color:00FF00;
+}
+
+table.table1
+{
+border: 1px solid 336699;
+padding:5px;
+width:100%;
+text-align:center;
+background-color:000033;
+}
+
+table.table2
+{
+width:100%;
+border: 1px solid 336699;
+background-color:000033;
+padding: 8px;
+border-collapse:seperate;
+font-size: 21px
+}
+
+table.table3
+{
+width:100%;
+border: 0px solid black;
+padding: 20px;
+border-spacing:10px;
+}
+td.td1
+{
+vertical-align:bottom;
+}
+
+td.td2
+{
+border:1px solid 336699;
+padding:4px;
+}
+
+ul.disc 
+{
+list-style-type:disc;
+}
+
